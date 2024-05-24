@@ -1,0 +1,4 @@
+H:\qop\wickedfbxdemo\dependencies\WickedEngine\BUILD\x64\Debug\WickedEngine_Windows.pdb
+H:\qop\wickedfbxdemo\dependencies\WickedEngine\WickedEngine\WickedEngine_Windows\x64\Debug\WickedEngine_Windows.pdb
+H:\qop\qop-flytrap-partyversion\dependencies\WickedEngine\BUILD\x64\Debug\WickedEngine_Windows.pdb
+h:\qop\qop-flytrap-partyversion\dependencies\WickedEngine\WickedEngine\WickedEngine_Windows\x64\Debug\WickedEngine_Windows.pdb

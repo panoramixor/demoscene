@@ -1,0 +1,589 @@
+﻿  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\bloomseparateCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\copytexture2D_float4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_unorm1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\copytexture2D_float4_borderexpandCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_wide_unorm1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_float3CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_float1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\chromatic_aberrationCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\circlePS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\bloomcombineCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_float1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_unorm1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\bvh_propagateaabbCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_wide_unorm4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_wide_unorm1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_wide_float1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_wide_float1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_unorm4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_wide_float4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_wide_float3CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_gaussian_float4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_float3CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_float4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_unorm4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_wide_float3CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_wide_float4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\captureImpostorPS_surface.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\blur_bilateral_wide_unorm4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\captureImpostorPS_albedo.cso
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\bvh_hierarchyCS.hlsl(87,7-21): warning X3203: signed/unsigned mismatch, unsigned assumed
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\bvh_hierarchyCS.hlsl(64,15-27): warning X3556: integer divides may be much slower, try using uints if possible.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\bvh_hierarchyCS.hlsl(64,37-42): warning X3556: integer divides may be much slower, try using uints if possible.
+  
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\bvh_hierarchyCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\captureImpostorPS_normal.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\bvh_primitivesCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\copytexture2D_unorm4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\cubeMapPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\copytexture2D_unorm4_borderexpandCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\cubeShadowVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_kickjobsCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\decalPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_postfilterCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_mainCS_earlyexit.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\decalVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_tileMaxCOC_horizontalCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_prepassCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_prepassCS_earlyexit.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\cubeVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\deferredPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_neighborhoodMaxCOCCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_upsampleCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_tileMaxCOC_verticalCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\cubeShadowVS_alphatest.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_mainCS_cheap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\dirLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\downsample4xCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\downsampleDepthBuffer4xPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticlePS_simplest.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\depthoffield_mainCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_finishUpdateCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\discLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_emitCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_emitCS_volume.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticlePS_soft_distortion.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticlePS_soft.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticleVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_kickoffUpdateCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\dirLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_emitCS_FROMMESH.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_simulateCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_sphpartitionCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_sphpartitionoffsetsresetCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_simulateCS_SORTING.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_sphpartitionoffsetsCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_sphdensityCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_simulateCS_DEPTHCOLLISIONS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\envMap_skyPS_static.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_simulateCS_SORTING_DEPTHCOLLISIONS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\envMapVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticle_sphforceCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\fft_512x512_c2c_v2_CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\fontPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\fontVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\forceFieldPlaneVisualizerVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\filterEnvMapCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\fft_512x512_c2c_CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\forceFieldVisualizerPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\envMap_skyVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChain2DCS_float4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChain3DCS_float4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChain2DCS_unorm4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChain3DCS_unorm4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChainCubeArrayCS_float4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChainCubeArrayCS_unorm4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\envMap_skyPS_dynamic.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChainCubeCS_float4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\generateMIPChainCubeCS_unorm4.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\gpusortlib_kickoffSortCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\gpusortlib_sortStepCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\gpusortlib_sortInnerCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_simplest.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\environmentalLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_alphatestonly.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\fxaaCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\gpusortlib_sortCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_deferred.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imagePS_backgroundblur_masked.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imagePS_backgroundblur.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imagePS_separatenormalmap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imagePS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticleVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imagePS_masked.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imageVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\imagePS_separatenormalmap_bicubic.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorPS_alphatestonly.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lensFlareVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorPS_wire.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorPS_simple.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lensFlarePS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticle_simulateCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorPS_deferred.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lensFlareGS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hbaoCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_DEBUG.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightShaftsCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\forceFieldPointVisualizerVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\luminancePass1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblurCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightVisualizerPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblur_neighborhoodMaxVelocityCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msaoCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblurCS_earlyexit.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblurCS_cheap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lineardepthCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\luminancePass2CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblur_kickjobsCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblur_tileMaxVelocity_horizontalCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\motionblur_tileMaxVelocity_verticalCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_blurupsampleCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_ADVANCED.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_ADVANCED_DEBUG.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_blurupsampleCS_blendout.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_preparedepthbuffers1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_preparedepthbuffers2CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_blurupsampleCS_premin_blendout.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_blurupsampleCS_premin.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectGS_voxelizer.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_debug.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_blackout.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_alphatestonly.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectHS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\msao_interleaveCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred_normalmap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectDS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\emittedparticlePS_soft_lighting.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred_normalmap_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred_normalmap_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_deferred_terrain.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_tiledforward_transparent.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_tiledforward.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_forward_transparent.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\hairparticlePS_forward.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_normalmap_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_transparent_normalmap_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_transparent_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\envMapPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorPS_forward.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_hologram.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_water.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_simplest.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_paintradius.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_textureonly.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_transparent.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\impostorPS_tiledforward.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_transparent_normalmap_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_transparent_normalmap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_normalmap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_transparent_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\envMapPS_terrain.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_normalmap_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_normalmap_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_voxelizer.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_normalmap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_common_tessellation.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_voxelizer_terrain.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_debug.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_simple.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_positionstream.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_simple_tessellation.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\oceanSimulatorCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_voxelizer.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectVS_common.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_forward_terrain.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\oceanSurfaceSimplePS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\oceanUpdateGradientFoldingCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\oceanUpdateDisplacementMapCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\oceanSurfaceVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\outlinePS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\pointLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\paint_textureCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_closesthitCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_debugbvhPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\pointLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_launchCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_shadeCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_screenVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_kickjobsCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\raytrace_tilesortCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\rectangleLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_water.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\shadowPS_alphatest.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\screenVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\resolveMSAADepthStencilCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\renderlightmapVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\shadowPS_transparent.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\screenPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\shadowPS_water.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\shadowVS_transparent.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\shadowVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\shadowVS_alphatest.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\sharpenCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\skinningCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\skyVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\skinningCS_LDS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\skyPS_dynamic.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\skyPS_static.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_normalmap_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\sphereLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\ssr_medianCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\spotLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\tonemapCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\trailPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\ssaoCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\sssPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\sunPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\trailVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\spotLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\tileFrustumsCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\temporalaaCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\tubeLightPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\ssr_raytraceCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\ssr_resolveCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\ssr_temporalCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\upsample_bilateral_unorm4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\upsample_bilateral_float1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\upsample_bilateralPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\upsample_bilateral_unorm1CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\upsample_bilateral_float4CS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vertexcolorPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vDiscLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\volumetricLight_DirectionalPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\renderlightmapPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelClearOnlyNormalCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelGS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\volumetricLight_PointPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelSceneCopyClearCS_TemporalSmoothing.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vRectangleLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelRadianceSecondaryBounceCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vertexcolorVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\sphereVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vTubeLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vPointLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelSceneCopyClearCS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vSpotLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\voxelVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_transparent_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\vSphereLightVS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_transparent_normalmap_planarreflection.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\oceanSurfacePS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\volumetricLight_SpotPS.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_DEFERRED_DEBUG.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_DEFERRED.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_DEFERRED_ADVANCED_DEBUG.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_transparent.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_transparent_normalmap.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\lightCullingCS_DEFERRED_ADVANCED.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_transparent_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_transparent_normalmap_pom.cso
+  compilation object save succeeded; see H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\shaders\objectPS_tiledforward_terrain.cso
+  btAxisSweep3.cpp
+  btBroadphaseProxy.cpp
+  btCollisionAlgorithm.cpp
+  btDbvt.cpp
+  btDbvtBroadphase.cpp
+  btDispatcher.cpp
+  btMultiSapBroadphase.cpp
+  btOverlappingPairCache.cpp
+  btQuantizedBvh.cpp
+  btSimpleBroadphase.cpp
+  btActivatingCollisionAlgorithm.cpp
+  btBox2dBox2dCollisionAlgorithm.cpp
+  btBoxBoxCollisionAlgorithm.cpp
+  btBoxBoxDetector.cpp
+  btCollisionDispatcher.cpp
+  btCollisionObject.cpp
+  btCollisionWorld.cpp
+  btCompoundCollisionAlgorithm.cpp
+  btCompoundCompoundCollisionAlgorithm.cpp
+  btConvex2dConvex2dAlgorithm.cpp
+  btConvexConcaveCollisionAlgorithm.cpp
+  btConvexConvexAlgorithm.cpp
+  btConvexPlaneCollisionAlgorithm.cpp
+  btDefaultCollisionConfiguration.cpp
+  btEmptyCollisionAlgorithm.cpp
+  btGhostObject.cpp
+  btHashedSimplePairCache.cpp
+  btInternalEdgeUtility.cpp
+  btManifoldResult.cpp
+  btSimulationIslandManager.cpp
+  btSphereBoxCollisionAlgorithm.cpp
+  btSphereSphereCollisionAlgorithm.cpp
+  btSphereTriangleCollisionAlgorithm.cpp
+  btUnionFind.cpp
+  SphereTriangleDetector.cpp
+  btBox2dShape.cpp
+  btBoxShape.cpp
+  btBvhTriangleMeshShape.cpp
+  btCapsuleShape.cpp
+  btCollisionShape.cpp
+  btCompoundShape.cpp
+  btConcaveShape.cpp
+  btConeShape.cpp
+  btConvex2dShape.cpp
+  btConvexHullShape.cpp
+  btConvexInternalShape.cpp
+  btConvexPointCloudShape.cpp
+  btConvexPolyhedron.cpp
+  btConvexShape.cpp
+  btConvexTriangleMeshShape.cpp
+  btCylinderShape.cpp
+  btEmptyShape.cpp
+  btHeightfieldTerrainShape.cpp
+  btMinkowskiSumShape.cpp
+  btMultimaterialTriangleMeshShape.cpp
+  btMultiSphereShape.cpp
+  btOptimizedBvh.cpp
+  btPolyhedralConvexShape.cpp
+  btScaledBvhTriangleMeshShape.cpp
+  btShapeHull.cpp
+  btSphereShape.cpp
+  btStaticPlaneShape.cpp
+  btStridingMeshInterface.cpp
+  btTetrahedronShape.cpp
+  btTriangleBuffer.cpp
+  btTriangleCallback.cpp
+  btTriangleIndexVertexArray.cpp
+  btTriangleIndexVertexMaterialArray.cpp
+  btTriangleMesh.cpp
+  btTriangleMeshShape.cpp
+  btUniformScalingShape.cpp
+  btContactProcessing.cpp
+  btGenericPoolAllocator.cpp
+  btGImpactBvh.cpp
+  btGImpactCollisionAlgorithm.cpp
+  btGImpactQuantizedBvh.cpp
+  btGImpactShape.cpp
+  btTriangleShapeEx.cpp
+  gim_box_set.cpp
+  gim_contact.cpp
+  gim_memory.cpp
+  gim_tri_collision.cpp
+  btContinuousConvexCollision.cpp
+  btConvexCast.cpp
+  btGjkConvexCast.cpp
+  btGjkEpa2.cpp
+  btGjkEpaPenetrationDepthSolver.cpp
+  btGjkPairDetector.cpp
+  btMinkowskiPenetrationDepthSolver.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletCollision\CollisionShapes\btCompoundShape.cpp(81,51): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  btPersistentManifold.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletCollision\CollisionShapes\btCompoundShape.cpp(315,61): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  btPolyhedralContactClipping.cpp
+  btRaycastCallback.cpp
+  btSubSimplexConvexCast.cpp
+  btVoronoiSimplexSolver.cpp
+  btKinematicCharacterController.cpp
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+  btFixedConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  Bullet-C-API.cpp
+  btMultiBody.cpp
+  btMultiBodyConstraint.cpp
+  btMultiBodyConstraintSolver.cpp
+  btMultiBodyDynamicsWorld.cpp
+  btMultiBodyJointLimitConstraint.cpp
+  btMultiBodyJointMotor.cpp
+  btMultiBodyPoint2Point.cpp
+  btDantzigLCP.cpp
+  btMLCPSolver.cpp
+  btRaycastVehicle.cpp
+  btWheelInfo.cpp
+  btDefaultSoftBodySolver.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored.
+  (compiling source file 'BULLET/BulletDynamics/ConstraintSolver/btContactConstraint.cpp')
+  
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(866,21): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(911,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(971,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(973,8): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  btSoftRigidCollisionAlgorithm.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\Character\btKinematicCharacterController.cpp(137,18): warning C4305: '=': truncation from 'double' to 'btScalar'
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\Character\btKinematicCharacterController.cpp(148,18): warning C4305: '=': truncation from 'double' to 'btScalar'
+  btSoftRigidDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btSerializer.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\MLCPSolvers\btDantzigLCP.cpp(1567,5): warning C4473: 'printf' : not enough arguments passed for format string
+  H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\MLCPSolvers\btDantzigLCP.cpp(1567,5):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\MLCPSolvers\btDantzigLCP.cpp(1567,5):
+  the missing variadic argument 2 is required by format string '% s'
+  
+  btVector3.cpp
+  RenderPath3D_Deferred.cpp
+  RenderPath3D_Deferred_BindLua.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored.
+  (compiling source file 'BULLET/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp')
+  
+  RenderPath3D_Forward.cpp
+  RenderPath3D_Forward_BindLua.cpp
+  RenderPath3D_PathTracing.cpp
+  RenderPath3D_TiledDeferred.cpp
+  RenderPath3D_TiledDeferred_BindLua.cpp
+  RenderPath3D_TiledForward.cpp
+  RenderPath3D_TiledForward_BindLua.cpp
+  D3D12MemAlloc.cpp
+  utility_common.cpp
+  wiArchive.cpp
+  wiAudio.cpp
+  wiAudio_BindLua.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored.
+  (compiling source file 'BULLET/BulletDynamics/Vehicle/btRaycastVehicle.cpp')
+  
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\LinearMath\btVector3.cpp(179,42): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\LinearMath\btVector3.cpp(184,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\LinearMath\btVector3.cpp(427,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  wiFFTGenerator.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\LinearMath\btVector3.cpp(564,42): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\LinearMath\btVector3.cpp(569,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\LinearMath\btVector3.cpp(815,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  wiGPUBVH.cpp
+  wiGPUSortLib.cpp
+  wiGraphicsDevice.cpp
+  wiGraphicsDevice_DX12.cpp
+  wiGraphicsDevice_Vulkan.cpp
+  LoadingScreen.cpp
+  LoadingScreen_BindLua.cpp
+  MainComponent.cpp
+  MainComponent_BindLua.cpp
+  Matrix_BindLua.cpp
+  RenderPath2D.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(445,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(450,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(444,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(449,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(966,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(967,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(976,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(1022,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBodyHelpers.cpp(1033,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RenderPath2D_BindLua.cpp
+  RenderPath3D.cpp
+  RenderPath3D_BindLua.cpp
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBody.cpp(3338,47): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBody.cpp(3339,47): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBody.cpp(3363,48): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBody.cpp(3384,49): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+H:\-\qop-flytrap\dependencies\WickedEngine\WickedEngine\BULLET\BulletSoftBody\btSoftBody.cpp(3408,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  RenderPath.cpp
+  RenderPath_BindLua.cpp
+  SpriteAnim_BindLua.cpp
+  Texture_BindLua.cpp
+  Vector_BindLua.cpp
+  wiBackLog.cpp
+  wiBackLog_BindLua.cpp
+  wiEmittedParticle.cpp
+  wiFadeManager.cpp
+  wiFont.cpp
+  wiNetwork_Linux.cpp
+  wiSpriteFont_BindLua.cpp
+  wiGraphicsDevice_DX11.cpp
+  wiGUI.cpp
+  wiHairParticle.cpp
+  wiHelper.cpp
+  wiImage.cpp
+  wiImageParams_BindLua.cpp
+  wiInitializer.cpp
+  wiInput.cpp
+  wiInput_BindLua.cpp
+  wiIntersect.cpp
+  wiIntersect_BindLua.cpp
+  wiJobSystem.cpp
+  wiNetwork_UWP.cpp
+  wiNetwork_Windows.cpp
+  wiPhysicsEngine_Bullet.cpp
+  wiLua.cpp
+  wiMath.cpp
+  wiNetwork_BindLua.cpp
+  wiOcean.cpp
+  wiProfiler.cpp
+  wiRandom.cpp
+  wiRawInput.cpp
+  wiRectPacker.cpp
+  wiRenderer.cpp
+  wiRenderer_BindLua.cpp
+  wiResourceManager.cpp
+  wiScene.cpp
+  wiScene_BindLua.cpp
+  wiScene_Serializers.cpp
+  wiSprite.cpp
+  wiSpriteFont.cpp
+  wiSprite_BindLua.cpp
+  wiStartupArguments.cpp
+  wiTextureHelper.cpp
+  wiTimer.cpp
+  wiVersion.cpp
+  wiWidget.cpp
+  wiXInput.cpp
+  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+  WickedEngine_Windows.vcxproj -> H:\-\qop-flytrap\dependencies\WickedEngine\BUILD\x64\Debug\WickedEngine_Windows.lib

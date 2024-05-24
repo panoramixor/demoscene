@@ -1,0 +1,2 @@
+H:\qop\wickedfbxdemo\dependencies\WickedEngine\BUILD\Win32\Debug\WickedEngine_Windows.pdb
+H:\qop\wickedfbxdemo\dependencies\WickedEngine\WickedEngine\WickedEngine_Windows\Win32\Debug\WickedEngine_Windows.pdb
