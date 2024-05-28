@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ESKeyframe.cpp" />
+    <ClCompile Include="ESPixelShow.cpp" />
+    <ClCompile Include="ESUtility.cpp" />
+    <ClCompile Include="invtro.cpp" />
+    <ClCompile Include="music.cpp" />
+    <ClCompile Include="Skeleton.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>headers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ESKeyframe.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESPixelShow.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESUtility.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="DATA\TEXTURES\PLANETS\FLARE.BMP">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="assets\icon.ico">
+      <Filter>resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="credits.RAW">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="text1.RAW">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="text2.RAW">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="text3.RAW">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="text4.RAW">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="tune.xm">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="pixelart.raw">
+      <Filter>resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="resources">
+      <UniqueIdentifier>{73e8f747-1ee4-420a-9ac6-3f406ae5e323}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{448293c0-67c4-4763-9513-7aadb8777e5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RESOURCE.RC">
+      <Filter>resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
