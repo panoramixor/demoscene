@@ -1,0 +1,339 @@
+FMOD: Using Primary Sound Driver
+FMOD: Stream is openning... waiting 80ms
+ESModel3DS->Load: ./data/scene01/01.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene01\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene01\reflect.jpg
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene01\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene01\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESModel3DS->Load: ./data/scene02/02.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene02\LOCURA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene02\locura.jpg
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene02\01.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene02/locura.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene03/03.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene03\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene03\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene04/04.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene04\03.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene04\03.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene05/05b.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene05\TEXTURE1.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene05\texture1.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESParticles->Creating: 10000 particles, with ./data/scene05/particle.tga
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene06/06.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene06\02.TGA
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene07/07_01.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene07\02.TGA
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESParticles->Creating: 1000 particles, with ./data/scene07/particle.tga
+ESModel3DS->Load: ./data/scene12/12.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene12\NEBULA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene12\nebula.jpg
+ESTexture->LoadJPG: ./data/scene12/nebulafondo.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene09/09new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene09\0002.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene09\0002.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene09/0002.jpg
+ESTexture->LoadJPG: ./data/scene09/0002.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene10/10new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene10\LOCURA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene10\locura.jpg
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene10\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene10\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene10/crap.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene11/11.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene11\04.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene11\04.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene08/08new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene08\05.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene08\05.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene08/04.jpg
+ESModel3DS->Load: ./data/scene14/14_txt.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene14\NEBULA3.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene14\nebula3.jpg
+ESModel3DS->Load: ./data/scene14/14_box.3ds
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene14\nebula2.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESModel3DS->Load: ./data/scene13/13.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene13\03.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene13\03.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESParticles->Creating: 10000 particles, with ./data/scene13/particle.tga
+FMOD: Unpausing...
+FMOD: Stream is closing... waiting 80ms
+FMOD: Shutdown... 
+FMOD: Using Primary Sound Driver
+FMOD: Stream is openning... waiting 80ms
+ESModel3DS->Load: ./data/scene01/01.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene01\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene01\reflect.jpg
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene01\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene01\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESModel3DS->Load: ./data/scene02/02.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene02\LOCURA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene02\locura.jpg
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene02\01.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene02/locura.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene03/03.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene03\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene03\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene04/04.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene04\03.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene04\03.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene05/05b.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene05\TEXTURE1.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene05\texture1.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESParticles->Creating: 10000 particles, with ./data/scene05/particle.tga
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene06/06.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene06\02.TGA
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene07/07_01.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene07\02.TGA
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESParticles->Creating: 1000 particles, with ./data/scene07/particle.tga
+ESModel3DS->Load: ./data/scene12/12.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene12\NEBULA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene12\nebula.jpg
+ESTexture->LoadJPG: ./data/scene12/nebulafondo.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene09/09new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene09\0002.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene09\0002.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene09/0002.jpg
+ESTexture->LoadJPG: ./data/scene09/0002.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene10/10new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene10\LOCURA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene10\locura.jpg
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene10\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene10\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene10/crap.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene11/11.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene11\04.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene11\04.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene08/08new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene08\05.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene08\05.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene08/04.jpg
+ESModel3DS->Load: ./data/scene14/14_txt.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene14\NEBULA3.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene14\nebula3.jpg
+ESModel3DS->Load: ./data/scene14/14_box.3ds
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene14\nebula2.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESModel3DS->Load: ./data/scene13/13.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene13\03.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene13\03.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESParticles->Creating: 10000 particles, with ./data/scene13/particle.tga
+FMOD: Unpausing...
+FMOD: Stream is closing... waiting 80ms
+FMOD: Shutdown... 
+FMOD: Using Primary Sound Driver
+FMOD: Stream is openning... waiting 80ms
+ESModel3DS->Load: ./data/scene01/01.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene01\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene01\reflect.jpg
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene01\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene01\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESModel3DS->Load: ./data/scene02/02.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene02\LOCURA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene02\locura.jpg
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene02\01.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene02/locura.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene03/03.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene03\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene03\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene04/04.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene04\03.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene04\03.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene05/05b.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene05\TEXTURE1.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene05\texture1.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESParticles->Creating: 10000 particles, with ./data/scene05/particle.tga
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene06/06.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene06\02.TGA
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene07/07_01.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene07\02.TGA
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESParticles->Creating: 1000 particles, with ./data/scene07/particle.tga
+ESModel3DS->Load: ./data/scene12/12.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene12\NEBULA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene12\nebula.jpg
+ESTexture->LoadJPG: ./data/scene12/nebulafondo.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene09/09new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene09\0002.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene09\0002.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene09/0002.jpg
+ESTexture->LoadJPG: ./data/scene09/0002.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene10/10new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene10\LOCURA.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene10\locura.jpg
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene10\REFLECT.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene10\reflect.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene10/crap.jpg
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene11/11.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene11\04.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene11\04.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+reading font: ./data/fonts/font3.bf
+ESModel3DS->Load: ./data/scene08/08new.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene08\05.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene08\05.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESTexture->LoadJPG: ./data/scene08/04.jpg
+ESModel3DS->Load: ./data/scene14/14_txt.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene14\NEBULA3.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene14\nebula3.jpg
+ESModel3DS->Load: ./data/scene14/14_box.3ds
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene14\nebula2.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESModel3DS->Load: ./data/scene13/13.3ds
+ESTexture->LoadEnvMap: H:\-\qop - continuosly eluding subject\PACKING\data\scene13\03.JPG
+ESTexture->LoadJPG: h:\-\qop - continuosly eluding subject\packing\data\scene13\03.jpg
+ESTexture->LoadBMPKeyColor: ./data/fader.bmp
+ESParticles->Creating: 10000 particles, with ./data/scene13/particle.tga
+FMOD: Unpausing...
+FMOD: Stream is closing... waiting 80ms
+FMOD: Shutdown... 
