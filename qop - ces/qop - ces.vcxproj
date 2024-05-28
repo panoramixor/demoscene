@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{BC06C8AD-E117-4E4C-B7B6-DB798EF50FB6}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectName>qop - ces</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>17.0.34511.75</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>Debug\</OutDir>
+    <IntDir>Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(MSBuildProjectDirectory)\dependecies\lib3ds\lib;$(MSBuildProjectDirectory)\dependecies\fmod;$(MSBuildProjectDirectory)\dependecies\bfl;$(MSBuildProjectDirectory)\dependecies\glew\lib;$(MSBuildProjectDirectory)\dependecies\unrar;$(MSBuildProjectDirectory)\dependecies\nvtristrip</LibraryPath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(MSBuildProjectDirectory)\dependecies\stb_image;$(MSBuildProjectDirectory)\dependecies;</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>Release\</OutDir>
+    <IntDir>Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(MSBuildProjectDirectory)\dependecies\lib3ds\lib;$(MSBuildProjectDirectory)\dependecies\fmod;$(MSBuildProjectDirectory)\dependecies\bfl;$(MSBuildProjectDirectory)\dependecies\glew\lib;$(MSBuildProjectDirectory)\dependecies\nvtristrip</LibraryPath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(MSBuildProjectDirectory)\dependecies\stb_image;$(MSBuildProjectDirectory)\dependecies;</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(MSBuildProjectDirectory)\dependecies;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>legacy_stdio_definitions.lib;lib3ds-120s.lib;fmodvc.lib;bfl.lib;glew32.lib;comctl32.lib;opengl32.lib;glu32.lib;%(AdditionalDependencies);</AdditionalDependencies>
+      <OutputFile>$(OutDir)qop - ces.exe</OutputFile>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>libcd.lib; libc.lib;%(IgnoreSpecificDefaultLibraries);libcp.lib;LIBCMT.lib</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)qop - ces.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>Full</Optimization>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>legacy_stdio_definitions.lib;;lib3ds-120s.lib;fmodvc.lib;bfl.lib;glew32.lib;comctl32.lib;opengl32.lib;glu32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)qop - ces.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libcd.lib; libc.lib;%(IgnoreSpecificDefaultLibraries);libcp.lib;LIBCMT.lib</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="3dsdemo.cpp" />
+    <ClCompile Include="ESCaption.cpp" />
+    <ClCompile Include="ESFMod.cpp" />
+    <ClCompile Include="ESKeyframe.cpp" />
+    <ClCompile Include="ESModel3DS.cpp" />
+    <ClCompile Include="ESOverlayEffects.cpp" />
+    <ClCompile Include="ESParticles.cpp" />
+    <ClCompile Include="ESPicture.cpp" />
+    <ClCompile Include="ESScene.cpp" />
+    <ClCompile Include="ESScene01.cpp" />
+    <ClCompile Include="ESScene02.cpp" />
+    <ClCompile Include="ESScene03.cpp" />
+    <ClCompile Include="ESScene04.cpp" />
+    <ClCompile Include="ESScene05.cpp" />
+    <ClCompile Include="ESScene06.cpp" />
+    <ClCompile Include="ESScene07.cpp" />
+    <ClCompile Include="ESScene08.cpp" />
+    <ClCompile Include="ESScene09.cpp" />
+    <ClCompile Include="ESScene10.cpp" />
+    <ClCompile Include="ESScene11.cpp" />
+    <ClCompile Include="ESScene12.cpp" />
+    <ClCompile Include="ESScene13.cpp" />
+    <ClCompile Include="ESScene14.cpp" />
+    <ClCompile Include="ESScenePlayer.cpp" />
+    <ClCompile Include="ESTexture.cpp" />
+    <ClCompile Include="ESUtility.cpp" />
+    <ClCompile Include="ESVectorMatrix.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3dsdemo.h" />
+    <ClInclude Include="ESCaption.h" />
+    <ClInclude Include="ESConstants.h" />
+    <ClInclude Include="ESFMod.h" />
+    <ClInclude Include="ESInterpolation.h" />
+    <ClInclude Include="ESKeyframe.h" />
+    <ClInclude Include="ESModel3DS.h" />
+    <ClInclude Include="ESOverlayEffects.h" />
+    <ClInclude Include="ESParticles.h" />
+    <ClInclude Include="ESPicture.h" />
+    <ClInclude Include="ESScene.h" />
+    <ClInclude Include="ESScene01.h" />
+    <ClInclude Include="ESScene02.h" />
+    <ClInclude Include="ESScene03.h" />
+    <ClInclude Include="ESScene04.h" />
+    <ClInclude Include="ESScene05.h" />
+    <ClInclude Include="ESScene06.h" />
+    <ClInclude Include="ESScene07.h" />
+    <ClInclude Include="ESScene08.h" />
+    <ClInclude Include="ESScene09.h" />
+    <ClInclude Include="ESScene10.h" />
+    <ClInclude Include="ESScene11.h" />
+    <ClInclude Include="ESScene12.h" />
+    <ClInclude Include="ESScene13.h" />
+    <ClInclude Include="ESScene14.h" />
+    <ClInclude Include="ESScenePlayer.h" />
+    <ClInclude Include="ESTexture.h" />
+    <ClInclude Include="ESUtility.h" />
+    <ClInclude Include="ESVectorMatrix.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource1.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ESDemo.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Icon_1.ico" />
+    <Image Include="optionstitle.BMP" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
