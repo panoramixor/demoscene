@@ -1,10 +1,4 @@
-/**********************************************************
-
-	Project: EngineSuffer
-	File:    ESUtility.h
-	Desc:    Utility functions
-
-**********************************************************/
+// utility functions
 
 #ifndef __ES_UTILITY_H_
 #define __ES_UTILITY_H_

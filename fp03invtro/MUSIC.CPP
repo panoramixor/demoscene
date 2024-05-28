@@ -1,3 +1,5 @@
+// minifmod xm player
+
 #include "stdafx.h"
 
 #define USEMEMLOAD

@@ -1,9 +1,5 @@
-/**********************************************************
+// Utility functions
 
-	Project: EngineSuffer
-	Desc:    Utility functions
-
-**********************************************************/
 #include "stdafx.h"
 
 float Difference(float source, float destination)

@@ -1,9 +1,5 @@
-//-------------------------------------------------------------------
-//	File:		Texture.h
-//	Created:	05/26/99 2:30:AM
-//	Author:		Aaron Hilton
-//	Comments:	Create and manage OpenGL textures.
-//-------------------------------------------------------------------
+// texture class
+
 #ifndef __Texture_h_
 #define __Texture_h_
 

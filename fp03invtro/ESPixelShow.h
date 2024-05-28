@@ -1,9 +1,4 @@
-/**********************************************************
-
-	Project: EngineSuffer
-	Desc:    class for displaying 2d bitmaps on screen
-	Author: panoramix
-**********************************************************/
+// pixel art class
 
 #ifndef __CPIXELSHOW_H___
 #define __CPIXELSHOW_H___

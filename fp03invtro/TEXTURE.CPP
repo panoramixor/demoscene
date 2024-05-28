@@ -1,3 +1,5 @@
+// texture class
+
 #include "stdafx.h"
 
 CTexture::CTexture()

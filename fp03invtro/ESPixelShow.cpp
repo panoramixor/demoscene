@@ -1,9 +1,4 @@
-/**********************************************************
-
-	Project: EngineSuffer
-	Desc:    class for displaying 2d bitmaps on screen
-	Author:  panoramix
-**********************************************************/
+// pixelart class
 
 #include "stdafx.h"
 

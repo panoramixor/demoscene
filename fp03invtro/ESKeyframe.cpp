@@ -1,12 +1,4 @@
-/**********************************************************
-
-	Project: EngineSuffer
-	Desc:    Keyframe class, handles creation/destruction
-		 and interpolation of keyframe objects.
-
-	Original Author: panoramix
-
-**********************************************************/
+// keyframe class
 
 #include "stdafx.h"
 
