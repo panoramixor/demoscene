@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{c5c9142c-ad37-4212-8c29-a25a33a798e3}</ProjectGuid>
+    <RootNamespace>qopwat</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(MSBuildProjectDirectory)\dependencies\stb_image;$(IncludePath);$(MSBuildProjectDirectory)\dependencies\bfl;;$(MSBuildProjectDirectory)\dependencies\fmod</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(MSBuildProjectDirectory)\dependencies;$(MSBuildProjectDirectory)\dependencies\bfl;;$(MSBuildProjectDirectory)\dependencies\fmod</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(MSBuildProjectDirectory)\dependencies\stb_image;$(IncludePath););$(MSBuildProjectDirectory)\dependencies\bfl;$(MSBuildProjectDirectory)\dependencies\fmod</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(MSBuildProjectDirectory)\dependencies;$(MSBuildProjectDirectory)\dependencies\bfl;$(MSBuildProjectDirectory)\dependencies\fmod</LibraryPath>
+    <GenerateManifest>false</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);FULLSCREEN</PreprocessorDefinitions>
+      <ConformanceMode>false</ConformanceMode>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>legacy_stdio_definitions.lib;$(CoreLibraryDependencies);%(AdditionalDependencies);opengl32.lib;glu32.lib;bfl.lib;fmod.lib;;comctl32.lib;winmm.lib</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>libcd.lib; libc.lib;%(IgnoreSpecificDefaultLibraries);libcp.lib;LIBCMT.lib</IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions);FULLSCREEN</PreprocessorDefinitions>
+      <ConformanceMode>false</ConformanceMode>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>NotSet</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <AdditionalDependencies>legacy_stdio_definitions.lib;$(CoreLibraryDependencies);%(AdditionalDependencies);opengl32.lib;glu32.lib;bfl.lib;fmod.lib;comctl32.lib;winmm.lib</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>libcd.lib; libc.lib;%(IgnoreSpecificDefaultLibraries);libcp.lib;LIBCMT.lib</IgnoreSpecificDefaultLibraries>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="AFXRES.H" />
+    <ClInclude Include="ESCamera.h" />
+    <ClInclude Include="ESCameraPath.h" />
+    <ClInclude Include="ESCaption.h" />
+    <ClInclude Include="ESConstants.h" />
+    <ClInclude Include="ESInterpolation.h" />
+    <ClInclude Include="ESKeyframe.h" />
+    <ClInclude Include="ESLight.h" />
+    <ClInclude Include="ESModel3DS.h" />
+    <ClInclude Include="ESPicture.h" />
+    <ClInclude Include="ESPixelBuffer.h" />
+    <ClInclude Include="ESQuaternion.h" />
+    <ClInclude Include="ESSkybox.h" />
+    <ClInclude Include="ESTexture.h" />
+    <ClInclude Include="ESUtility.h" />
+    <ClInclude Include="ESVector2d.h" />
+    <ClInclude Include="ESVectorMatrix.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Stdafx.h" />
+    <ClInclude Include="VectorMatrix.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ES2DEffects.cpp" />
+    <ClCompile Include="ESCamera.cpp" />
+    <ClCompile Include="ESCameraPath.cpp" />
+    <ClCompile Include="ESCaption.cpp" />
+    <ClCompile Include="ESInterpolation.cpp" />
+    <ClCompile Include="ESKeyframe.cpp" />
+    <ClCompile Include="ESLight.cpp" />
+    <ClCompile Include="ESLoadDemo.cpp" />
+    <ClCompile Include="ESModel3DS.cpp" />
+    <ClCompile Include="ESMusic.cpp" />
+    <ClCompile Include="ESPicture.cpp" />
+    <ClCompile Include="ESPixelBuffer.cpp" />
+    <ClCompile Include="ESQuaternion.cpp" />
+    <ClCompile Include="ESScene00.cpp" />
+    <ClCompile Include="ESScene01.cpp" />
+    <ClCompile Include="ESScene02.cpp" />
+    <ClCompile Include="ESScene03.cpp" />
+    <ClCompile Include="ESScene04.cpp" />
+    <ClCompile Include="ESScene05.cpp" />
+    <ClCompile Include="ESScene06.cpp" />
+    <ClCompile Include="ESScene07.cpp" />
+    <ClCompile Include="ESScene08.cpp" />
+    <ClCompile Include="ESScene09.cpp" />
+    <ClCompile Include="ESScene10.cpp" />
+    <ClCompile Include="ESScenePlayer.cpp" />
+    <ClCompile Include="ESSkeleton.cpp" />
+    <ClCompile Include="ESSkybox.cpp" />
+    <ClCompile Include="ESTexture.cpp" />
+    <ClCompile Include="ESUtility.cpp" />
+    <ClCompile Include="ESVector2d.cpp" />
+    <ClCompile Include="ESVectorMatrix.cpp" />
+    <ClCompile Include="VectorMatrix.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ESFRAMEWORK.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
