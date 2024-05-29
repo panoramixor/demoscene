@@ -7,6 +7,7 @@ Everything in here has been confirmed to build on Visual Studio 2022
 
 * [qop - doddering](/qop%20-%20doddering/)
 * [qop - flytrap](/qop%20-%20flytrap/)
+* [qop - nss](/qop%20-%20nss/)
 * [qop - ces](/qop%20-%20ces/)
 * [qop - wat](/qop%20-%20wat/)
 
