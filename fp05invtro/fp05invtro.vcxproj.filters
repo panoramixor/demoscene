@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ESCube.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESDevilTexture.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESFMod.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESKeyframe.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESOverlayEffects.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESPicture.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESScene.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESScene01.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESScenePlayer.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESTexture.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESUtility.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESVector2d.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ESVectorMatrix.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="fp05invtro.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderTexture.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorMatrix.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ESConstants.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESCube.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESDevilTexture.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESFMod.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESInterpolation.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESKeyframe.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESOverlayEffects.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESPicture.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESScene.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESScene01.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESScenePlayer.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESTexture.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESUtility.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESVector2d.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ESVectorMatrix.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="fp05invtro.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NvTriStrip.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderTexture.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorMatrix.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="fp2005demo.ico">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{3a27bfa4-8a41-4608-bdc6-6834c286df96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{a534b2eb-7004-4095-b94a-e1e93ca13dab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{458b4f45-4166-4d16-995d-9075fe281ba0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="fp05invtro.rc">
+      <Filter>resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
