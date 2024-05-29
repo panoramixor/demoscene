@@ -13,4 +13,6 @@ Everything in here has been confirmed to build on Visual Studio 2022
 
 **flashparty invitation intros**
 
+* [fp05invtro](/fp05invtro/)
 * [fp03invtro](/fp03invtro/)
+
