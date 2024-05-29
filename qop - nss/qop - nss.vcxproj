@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{ACAE9558-0379-457B-968A-F4712EAB9EFF}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectName>qop - nss</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>17.0.34511.75</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>Debug\</OutDir>
+    <IntDir>Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>Release\</OutDir>
+    <IntDir>Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)qop - nss.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>$(OutDir)qop - nss.pdb</ProgramDatabaseFile>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>libcd.lib; libc.lib;%(IgnoreSpecificDefaultLibraries);libcp.lib;LIBCMTD.lib</IgnoreSpecificDefaultLibraries>
+      <AdditionalDependencies>legacy_stdio_definitions.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalOptions>/ignore:4099 %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>$(OutDir)qop - nss.exe</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalDependencies>legacy_stdio_definitions.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>libcd.lib; libc.lib;%(IgnoreSpecificDefaultLibraries);libcp.lib;LIBCMT.lib</IgnoreSpecificDefaultLibraries>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ESCaption.cpp" />
+    <ClCompile Include="ESCube.cpp" />
+    <ClCompile Include="ESDevilTexture.cpp" />
+    <ClCompile Include="ESFMod.cpp" />
+    <ClCompile Include="ESFont.cpp" />
+    <ClCompile Include="ESInterpolator.cpp" />
+    <ClCompile Include="ESKeyframe.cpp" />
+    <ClCompile Include="ESLight.cpp" />
+    <ClCompile Include="ESModel3DS.cpp" />
+    <ClCompile Include="ESRenderToTexture.cpp" />
+    <ClCompile Include="ESScene.cpp" />
+    <ClCompile Include="ESScene00.cpp" />
+    <ClCompile Include="ESScene01.cpp" />
+    <ClCompile Include="ESScene02.cpp" />
+    <ClCompile Include="ESScene03.cpp" />
+    <ClCompile Include="ESScene04.cpp" />
+    <ClCompile Include="ESScene05.cpp" />
+    <ClCompile Include="ESScene06.cpp" />
+    <ClCompile Include="ESScene07.cpp" />
+    <ClCompile Include="ESScene08.cpp" />
+    <ClCompile Include="ESScene09.cpp" />
+    <ClCompile Include="ESScene10.cpp" />
+    <ClCompile Include="ESScenePlayer.cpp" />
+    <ClCompile Include="ESUtility.cpp" />
+    <ClCompile Include="ESVectorMatrix.cpp" />
+    <ClCompile Include="fp2005demo.cpp" />
+    <ClCompile Include="framebufferObject.cpp" />
+    <ClCompile Include="renderbuffer.cpp" />
+    <ClCompile Include="RenderTexture.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="VectorMatrix.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ESCaption.h" />
+    <ClInclude Include="ESConstants.h" />
+    <ClInclude Include="ESCube.h" />
+    <ClInclude Include="ESDevilTexture.h" />
+    <ClInclude Include="ESFMod.h" />
+    <ClInclude Include="ESFont.h" />
+    <ClInclude Include="ESInterpolator.h" />
+    <ClInclude Include="ESKeyframe.h" />
+    <ClInclude Include="ESLight.h" />
+    <ClInclude Include="ESModel3DS.h" />
+    <ClInclude Include="ESRenderToTexture.h" />
+    <ClInclude Include="ESScene.h" />
+    <ClInclude Include="ESScene00.h" />
+    <ClInclude Include="ESScene01.h" />
+    <ClInclude Include="ESScene02.h" />
+    <ClInclude Include="ESScene03.h" />
+    <ClInclude Include="ESScene04.h" />
+    <ClInclude Include="ESScene05.h" />
+    <ClInclude Include="ESScene06.h" />
+    <ClInclude Include="ESScene07.h" />
+    <ClInclude Include="ESScene08.h" />
+    <ClInclude Include="ESScene09.h" />
+    <ClInclude Include="ESScene10.h" />
+    <ClInclude Include="ESScenePlayer.h" />
+    <ClInclude Include="ESUtility.h" />
+    <ClInclude Include="ESVectorMatrix.h" />
+    <ClInclude Include="fp2005demo.h" />
+    <ClInclude Include="framebufferObject.h" />
+    <ClInclude Include="NvTriStrip.h" />
+    <ClInclude Include="renderbuffer.h" />
+    <ClInclude Include="RenderTexture.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="VectorMatrix.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="fp2005demo.ico" />
+    <Image Include="Icon_1.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="fp2005demo.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

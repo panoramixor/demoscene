@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qop - nss", "qop - nss.vcxproj", "{ACAE9558-0379-457B-968A-F4712EAB9EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAE9558-0379-457B-968A-F4712EAB9EFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACAE9558-0379-457B-968A-F4712EAB9EFF}.Debug|x86.Build.0 = Debug|Win32
+		{ACAE9558-0379-457B-968A-F4712EAB9EFF}.Release|x86.ActiveCfg = Release|Win32
+		{ACAE9558-0379-457B-968A-F4712EAB9EFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916FD9E7-2511-4055-A9BE-891C84011B8B}
+	EndGlobalSection
+EndGlobal
