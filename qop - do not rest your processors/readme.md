@@ -1,4 +1,4 @@
-![](/images/dnryp.jpg)
+![](/images/dnryp.png)
 
 [get binaries here (will be active after the compo)](https://github.com/panoramixor/demoscene/raw/main/qop%20-%20do%20not%20rest%20your%20processors/binaries/qop-dnryp.rar)
 or
