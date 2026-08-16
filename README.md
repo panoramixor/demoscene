@@ -7,6 +7,7 @@ Everything in here has been updated to build correctly on Visual Studio 2022
 
 Screenshot  | repository
 ------------- | -------------
+[![](/images/dnryp.png)](/qop%20-%20do%20not%20rest%20your%20processors/)  | [qop - do not rest your processors (TBR: Flashparty 2026)](/qop%20-%20do%20not%20rest%20your%20processors/)
 [![](/images/doddering.jpg)](/qop%20-%20doddering/)  | [qop - doddering](/qop%20-%20doddering/)
 [![](/images/flytrap.jpg)](/qop%20-%20flytrap/)  | [qop - flytrap](/qop%20-%20flytrap/)
 [![](/images/inhisname.jpg)](https://www.pouet.net/prod.php?which=83187)  | not ready
